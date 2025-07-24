@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    background-color:lightgray;
+}
+nav{
+  text-align:center;
+  border:3px solid darkblue;
+  border-radius:8px;
+  padding:10px;
+  margin:10px;
+  background-color:navy;
+}
+nav a{
+  text-decoration:none;
+  color:red;
+  font-size:22px;
+  margin:15px
+}
+main h1{
+  text-align:center
+}
+main p{
+  font-size:19px;
+}
+ol{
+  font-size:19px;
+}
+footer{
+  background-color:navy;
+  padding-left:10px
+}
